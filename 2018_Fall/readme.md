@@ -49,7 +49,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Lui, Jessica
 - [ ] McKee, Sarah
 - [X] Mittal, Trisha
-- [ ] Nakada, Makoto
+- [X] Nakada, Makoto
 - [ ] Nince, Eduardo
 - [ ] Nordvik, Aaron
 - [ ] Pace-Emerson, Tam
